@@ -17,7 +17,8 @@
 <a href="https://instagram.com/sameer_sahu_0918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer_sahu_0918" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Soumya-Sahu-6" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=OiNgnp0AAAAJ&hl=en&authuser=1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" alt="Google Scholar" height="30" width="40" /></a>
-</p>
+<a
+href="https://orcid.org/my-orcid?orcid=0000-0003-2201-6815" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDlmXBqH74TKa8sPjWWaFflBSK_bTFvaRcKA&usqp=CAU" alt="Google Scholar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
