@@ -1,5 +1,7 @@
 <img align="center" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq12kf3xquzy473323zl0.gif">
-<h1 align="center">Hello 👋, I'm Soumya Ranjan Sahu</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+👋,+I'm+Soumya+Ranjan+" />
+</h1>
 <h3 align="center">Researcher</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeplab0918" alt="deeplab0918" /></a> </p>
@@ -29,3 +31,9 @@ href="https://orcid.org/my-orcid?orcid=0000-0003-2201-6815" target="blank"><img 
 
 <h3 align="left">Languages used:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeplab0918&show_icons=true&locale=en&layout=compact" alt="deeplab0918" /></p>
+
+<h3 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+
+</h3>
